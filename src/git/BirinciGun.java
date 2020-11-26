@@ -12,6 +12,7 @@ public class BirinciGun {
 	   System.out.println("11:23 -github.com");
 	   System.out.println("Ben buradan conflict beklemiyorum.");
 	   System.out.println("10:26 - feature branch");
+	   System.out.println("yepyeni feature branch");
 
 
 	   
